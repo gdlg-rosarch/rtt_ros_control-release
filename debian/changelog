@@ -1,0 +1,16 @@
+ros-kinetic-rtt-controller-manager-msgs (0.1.1-0xenial) xenial; urgency=high
+
+  * Cleanup typekits and remove unneccessary dependencies
+  * Contributors: Johannes Meyer
+
+ -- Orocos Developers <orocos-dev@lists.mech.kuleuven.be>  Wed, 13 Dec 2017 23:00:00 -0000
+
+ros-kinetic-rtt-controller-manager-msgs (0.1.0-0xenial) xenial; urgency=high
+
+  * updating typekit cmakelists
+  * Moving typekits into this repo, putting the component package in a subdir
+  * Contributors: Jonathan Bohren
+
+ -- Orocos Developers <orocos-dev@lists.mech.kuleuven.be>  Sun, 07 Dec 2014 23:00:00 -0000
+
+
